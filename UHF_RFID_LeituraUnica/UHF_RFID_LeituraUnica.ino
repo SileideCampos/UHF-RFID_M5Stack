@@ -7,8 +7,8 @@
 UHF_RFID RFID;
 CardpropertiesInfo card;
 
-const char* ssid = "STARK 2.4G";
-const char* senha = "01550123";
+const char* ssid = "ALTERAR-AQUI";
+const char* senha = "ALTERAR-AQUI";
 unsigned int localPort = 3333;
 WiFiUDP conexao;
 IPAddress ip;
